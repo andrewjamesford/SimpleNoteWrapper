@@ -1,0 +1,27 @@
+{
+  "name": "simple-note-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper for Simple Note",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewjamesford/SimpleNoteWrapper.git"
+  },
+  "keywords": [
+    "Electron",
+    "SimpleNote",
+    "Windows"
+  ],
+  "author": "Andrew Ford",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/andrewjamesford/SimpleNoteWrapper/issues"
+  },
+  "homepage": "https://github.com/andrewjamesford/SimpleNoteWrapper#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
